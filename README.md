@@ -87,7 +87,7 @@ Fork and clone this project repository. As you work, be sure to create a flow of
 Before you start building, take a look at the files you have available in this repo.
 
 * In the main directory, you've got a `Gemfile` that gives you access to `activerecord`, `pry`, `rake`, and `sqlite3`.
-  * Remember to `bundle install`!
+  * Remember to `bundle install`! 
 * In the `bin` directory, you've got a `run.rb` file that you can run from the command line with `ruby bin/run.rb.`
 * In `config`, you've got your database set up with Active Record, as well as all of your models from the `lib` folder made available to your database.
 * In the `lib` directory, you'll be building all your models.
@@ -162,7 +162,7 @@ Once your file is ready, run `rake -T` to see which rake task you can use to see
 
 ---
 
-### Phase 3: Execution
+### Phase 3: Execution 
 
 This should take approximately **one day**.
 

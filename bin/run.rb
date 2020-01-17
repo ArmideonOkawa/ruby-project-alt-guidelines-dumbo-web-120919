@@ -1,3 +1,6 @@
 require_relative '../config/environment'
 
-puts "hello world"
+#app = BountyApp.new
+#app.run
+app = BountyHunt.new
+app.run
